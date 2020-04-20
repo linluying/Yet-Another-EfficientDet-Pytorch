@@ -1,3 +1,14 @@
+https://zhuanlan.zhihu.com/p/129016081
+
+http://finance.sina.com.cn/stock/relnews/us/2020-04-14/doc-iirczymi6232682.shtml
+
+https://zhuanlan.zhihu.com/p/93241232
+
+
+
+
+
+
 # Yet Another EfficientDet Pytorch
 
 The pytorch re-implement of the official [EfficientDet](https://github.com/google/automl/efficientdet) with SOTA performance in real time, original paper link: https://arxiv.org/abs/1911.09070
